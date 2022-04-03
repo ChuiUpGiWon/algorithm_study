@@ -19,7 +19,6 @@ while True:
             miro[x][y]=9 #9
             break #끝내기
    
-
 for i in range(10):
     for j in range(10):
         print(miro[i][j], end=' ')
