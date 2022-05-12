@@ -1,5 +1,4 @@
-#220512
-#과자가격 K, 과자개수 N, 가진 돈 M
+#220512 과자가격 K, 과자개수 N, 가진 돈 M
 
 k,n,m=map(int,input().split())
 money=(k*n)-m
